@@ -1,4 +1,4 @@
-# Samples
+# Simple Neuranal Network Training Samples
 
 This repository has several toy training sets and examples for experimenting with a simple
 two layer neural network (NN). In each example you have a `LearnCard.xlsx` spreadsheet which
